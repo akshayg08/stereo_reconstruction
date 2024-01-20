@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 import scipy.optimize
-import submission as sub
+import main as sub
 from mpl_toolkits.mplot3d import Axes3D
 
 

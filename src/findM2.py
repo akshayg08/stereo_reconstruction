@@ -1,6 +1,6 @@
 import numpy as np 
 import cv2
-from submission import eightpoint, essentialMatrix, triangulate
+from main import eightpoint, essentialMatrix, triangulate
 from helper import camera2, displayEpipolarF
 
 I1 = cv2.imread("../data/im1.png")
